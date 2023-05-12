@@ -17,9 +17,14 @@ public class Blazedemo extends Baseclass {
 		clickbutton(lp.getLink());
 	//	WebElement link = driver.findElement(By.xpath("//a[text()='destination of the week! The Beach!']"));
 		//clickbutton(link);
+System.out.println("Dog");
+
 
 		
 		System.out.println("Updated");
 	}
+private void sdf() {
+	System.out.println("Master");
 
+}
 }
