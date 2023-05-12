@@ -21,5 +21,10 @@ public class Blazedemo extends Baseclass {
 		
 		System.out.println("Updated");
 	}
+	
+	private void rr() {
+		System.out.println("asdfsgd");
+
+	}
 
 }
