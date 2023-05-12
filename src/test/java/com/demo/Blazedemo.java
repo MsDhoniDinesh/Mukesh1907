@@ -18,6 +18,8 @@ public class Blazedemo extends Baseclass {
 	//	WebElement link = driver.findElement(By.xpath("//a[text()='destination of the week! The Beach!']"));
 		//clickbutton(link);
 
+		
+		System.out.println("Updated");
 	}
 
 }
