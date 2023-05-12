@@ -26,5 +26,10 @@ public class Blazedemo extends Baseclass {
 		System.out.println("asdfsgd");
 
 	}
+	
+	private void tutjyt() {
+		System.out.println("sgfnfgdgs");
+
+	}
 
 }
